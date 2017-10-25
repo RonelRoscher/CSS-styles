@@ -1,0 +1,8 @@
+<style type="text/css">.views-row-odd.col-sm-6 {
+    clear: both;
+    margin-bottom:20px;
+}
+.views-row-even.col-sm-6 {
+    margin-bottom:20px;
+}
+</style>
